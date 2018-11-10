@@ -177,7 +177,7 @@ a{
     line-height: 40px;
 }
 .btxt_pg2{
-    background-image: url(images/USflag.jpg);  
+    background-image: url('images/USflag.jpg');  
     background-position:right;
     background-size: 56%;
     background-repeat: no-repeat;
